@@ -62,13 +62,15 @@ Open circuit charactersitics:
 Load charactersitic: 
 ![IMG-20251211-WA0065 1](https://github.com/user-attachments/assets/62df9f8c-8b24-44f7-a364-90c48a31b0dc)
 
-Graph:
+Calculation:<br>
 Open circuit characteristics
-![IMG-20251211-WA0067 1](https://github.com/user-attachments/assets/e1b1b0a3-9ab3-40a0-81fb-2ce398b83570)
+<img width="1067" height="862" alt="image" src="https://github.com/user-attachments/assets/600cb581-2fe8-4c71-90a6-b479d3dbf06f" />
+
 
   
 Load Characteristics:
-![IMG-20251211-WA0066 1](https://github.com/user-attachments/assets/4279a1c5-b2e8-4e28-a2b3-9d5aa39cc351)
+<img width="915" height="790" alt="image" src="https://github.com/user-attachments/assets/d9835e64-bb5d-4db0-9132-fe149eaaa986" />
+
 
  
 Result:
